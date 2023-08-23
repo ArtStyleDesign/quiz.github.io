@@ -1,1 +1,0 @@
-_vercel.myquiz.com
